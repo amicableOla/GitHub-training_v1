@@ -1,1 +1,3 @@
 This is simple text file2
+
+this is reset1
