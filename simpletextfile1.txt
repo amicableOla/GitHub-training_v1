@@ -1,2 +1,4 @@
+Git revert
+
 This is simple text file
 This is simple text file2
